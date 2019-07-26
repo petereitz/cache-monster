@@ -1,0 +1,22 @@
+{
+  "name": "cache-monster",
+  "version": "0.0.1",
+  "description": "Request, cache, refresh and serve OC19 data sources.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petereitz/cache-monster.git"
+  },
+  "author": "pete reitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petereitz/cache-monster/issues"
+  },
+  "homepage": "https://github.com/petereitz/cache-monster#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
